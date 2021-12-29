@@ -1,5 +1,4 @@
 # Javascript
 
-Desenvolvido para  colocar em pratica os conhecimentos adquiridos nos cursos maisprati.
-Projeto onde criei um cadastro de alunos.
-Utilizando javascript, html e css nada além destas linguagens.
+Projeto desenvolvido para colocar em prática os conhecimentos adquiridos nos cursos maisprati.
+Onde criei um cadastro de alunos, utilizando javascript, html e css nada além destas linguagens.
